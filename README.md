@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm ragib-rounok</h1>
 <h3 align="center">I build AI-powered automation workflows that help businesses save time, reduce repetitive work, and improve productivity.</h3>
 
-- 🔭 I’m currently working on AI Automation Projects using n8n **🔭 I’m currently working on AI Automation Projects using n8n**
+ **🔭 I’m currently working on AI Automation Projects using n8n**
 
-- 🌱I’m currently learning n8n, AI Agents, APIs, Webhooks, and LLMs **🌱I’m currently learning n8n, AI Agents, APIs, Webhooks, and LLMs**
+**🌱I’m currently learning n8n, AI Agents, APIs, Webhooks, and LLMs**
 
-- 👯I’m looking to collaborate on AI Automation & AI Agent Projects **👯I’m looking to collaborate on AI Automation & AI Agent Projects**
+**👯I’m looking to collaborate on AI Automation & AI Agent Projects**
 
-- 🤝 I’m looking for help with Advanced AI Automation and API Integrations **🤝 I’m looking for help with Advanced AI Automation and API Integrations**
+ **🤝 I’m looking for help with Advanced AI Automation and API Integrations**
 
 - 👨‍💻 All of my projects are available at [https://ragibrounok.lovable.app/](https://ragibrounok.lovable.app/)
 
